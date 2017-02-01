@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/starzplayarabia/eslint-config-starzplay/issues"
   },
-  "homepage": "https://github.com/starzplayarabia/eslint-config-starzplay#readme"
+  "homepage": "https://github.com/starzplayarabia/eslint-config-starzplay#readme",
+  "devDependencies": {
+    "eslint": "^3.14.1",
+    "eslint-config-starzplay": "0.0.1",
+    "eslint-config-airbnb-base": "^11.0.1",
+    "eslint-plugin-import": "^2.2.0"
+  }
 }
