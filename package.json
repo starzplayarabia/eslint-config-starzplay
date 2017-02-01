@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-starzplay",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ESLint configuration for STARZPLAY javascript style guide",
   "main": "index.js",
   "scripts": {

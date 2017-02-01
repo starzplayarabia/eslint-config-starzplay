@@ -6,7 +6,7 @@ To use this ruleset in your with ESLint project, first include eslint-config-sta
 
 ```
 "devDependencies": {
-    "eslint-config-starzplay": "0.0.1"
+    "eslint-config-starzplay": "0.0.2"
   },
 ```
 
