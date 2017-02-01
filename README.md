@@ -1,5 +1,4 @@
-# eslint-config-starzplay
-ESLint configuration for STARZPLAY javascript style guide
+# ESLint rules to enforce STARZPLAY Javascript style guide
 
 This configuration works on top of [AirBnB's Javascript Style guide](https://github.com/airbnb/javascript) and follows the modifications agreed by [STARZPLAY Frontend team](https://github.com/starzplayarabia/javascript-style-guide).
 
